@@ -74,8 +74,8 @@ Asks the user three interactive questions and generates a personalised open sour
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/[your-github-username]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/Watcher-ux/oss-audit-24mip10181.git
+cd oss-audit-24mip10181
 ```
 
 ### Step 2 — Make all scripts executable
