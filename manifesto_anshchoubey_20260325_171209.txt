@@ -1,0 +1,17 @@
+MY OPEN SOURCE MANIFESTO
+Written by: anshchoubey | Date: 25 March 2026
+Course: Open Source Software | Software Audited: Python
+
+================================================================
+
+Every day, I use github — a tool I did not pay for, did not ask permission to use, and can look inside whenever I choose. This is not an accident. It is the result of people who believed that software, like knowledge, should be shared. I am the beneficiary of their generosity.
+
+To me, freedom in software means Being able to create anything that can be imagined.. Not the freedom to do anything without consequence, but the freedom to understand what my tools do, to fix them when they break, and to pass them on improved. Python taught me this: readable code is a form of respect for the next person.
+
+If I could build one thing and share it freely, it would be A tool for teaching structure formation and identification in any and everything that even remotely makes sense.. I would share it because I have taken from this ecosystem — from the developers who built Python, Git, Linux, and countless libraries — and giving back is not charity. It is the contract that makes open source work.
+
+Open source is not just a licensing model. It is a statement that says: the tools we build together are stronger than the tools we hoard alone. I choose to stand on the shoulders of giants — and to be a shoulder, in turn.
+
+================================================================
+— anshchoubey | Generated on 25 March 2026 | Open Source Software Course
+================================================================
