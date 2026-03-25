@@ -2,7 +2,7 @@
 
 **Open Source Audit — Capstone Project**
 Course: Open Source Software | VITyarthi
-Student: [Your Name] | Roll Number: [Your Roll Number]
+Student: Ansh Choubey | Roll Number: 24MIP10181
 Software Audited: **Python** (PSF License)
 
 ---
